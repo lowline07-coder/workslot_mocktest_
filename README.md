@@ -1,2 +1,6 @@
 # workslot_mocktest_
-this is my experimental mock test project for Data Analytics
+This is my first mock test project experience for Data Analytics
+Here I have performed operations on Excel, SQL and Power BI on the given dataset provided.
+Thankyou 🙏.
+
+
